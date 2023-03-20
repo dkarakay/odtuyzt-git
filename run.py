@@ -6,7 +6,7 @@ class_code = '314'  # Digital Circuits Laboratory
 section_no = 8  # Section 8
 
 driver_path = "/Users/sedna/local-dev/chromedriver"
-refresh_rate = 4  # Check each 4 seconds
+refresh_rate = 5  # Check each 5 seconds
 
 discord_webhook_url = 'https://discord.com/api/webhooks/xxxx'
 
