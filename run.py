@@ -2,7 +2,7 @@ from core.main import auto_checker_capacity
 
 semester = '20222'  # 2022-2023 Spring
 department_code = '651'  # Electrical Electronics Engineering
-class_code = '3143'  # Digital Circuits Laboratory
+class_code = '314'  # Digital Circuits Laboratory
 section_no = 8  # Section 8
 
 driver_path = "/Users/sedna/local-dev/chromedriver"
