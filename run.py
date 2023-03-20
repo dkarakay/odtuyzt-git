@@ -2,8 +2,8 @@ from core.main import auto_checker_capacity
 
 semester = '20222'  # 2022-2023 Spring
 department_code = '651'  # Electrical Electronics Engineering
-class_code = '242'  # Digital Circuits Laboratory
-section_no = 1  # Section 8
+class_code = '314'  # Digital Circuits Laboratory
+section_no = 8  # Section 8
 
 driver_path = "/Users/sedna/local-dev/chromedriver"
 refresh_rate = 4  # Check each 4 seconds
